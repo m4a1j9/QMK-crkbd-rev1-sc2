@@ -4,7 +4,7 @@ Persistent
 
 ; main remappings
 #HotIf WinActive("ahk_exe SC2_x64.exe") && NOT GetKeyState("RAlt", "P")
-    q::w
+    q::e
     w::1
     e::2
     r::3
